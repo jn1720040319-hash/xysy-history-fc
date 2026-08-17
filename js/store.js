@@ -148,7 +148,7 @@ const Store = (() => {
         { id: 'h3', name: '高原', position: '门将', years: '2013-2017', honors: '2015 校联赛"金手套奖"\n连续 400 分钟不失球纪录保持者', bio: '绰号"铁闸"，巅峰时期几乎一夫当关，是球队最令人安心的存在。', photo: null },
         { id: 'h4', name: '谢文博', position: '后卫', years: '2015-2019', honors: '2018 校联赛冠军（队长）\n2019 毕业季告别赛全场最佳', bio: '铁血队长，把最美好的四年献给绿茵场，退役之战感动全队。', photo: null }
       ],
-      background: { type: 'color', color: '#e8f0e9', image: null, veil: 0 }
+      background: { type: 'image', color: '#eaf1fb', image: 'images/bg.jpg', veil: 0.3 }
     };
   }
 

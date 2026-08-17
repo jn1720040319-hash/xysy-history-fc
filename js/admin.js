@@ -10,7 +10,7 @@
   const photo = p => App.photoOf(p);
 
   const POSITIONS = ['前锋', '中场', '后卫', '门将'];
-  const SWATCHES = ['#e8f0e9', '#ffffff', '#f7f3e8', '#e9f2fa', '#f2eaea', '#0b2a18', '#123c26', '#1d4e89', '#4a2b52', '#7c3a2d'];
+  const SWATCHES = ['#eaf1fb', '#ffffff', '#f7f3e8', '#eef4ff', '#f2eaea', '#0b1f4d', '#1e3a8a', '#2563eb', '#1d4ed8', '#7c3a2d'];
 
   let currentTab = 'team';
   let formState = null;       // 队员/名人堂编辑状态
