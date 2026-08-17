@@ -87,6 +87,7 @@ body {
 .brand-badge {
   width: 44px;
   height: 44px;
+  aspect-ratio: 1 / 1;
   border-radius: 50%;
   object-fit: cover;
   flex: none;
@@ -126,6 +127,7 @@ body {
 .hero-badge {
   width: 110px;
   height: 110px;
+  aspect-ratio: 1 / 1;
   border-radius: 50%;
   object-fit: cover;
   margin: 0 auto 18px;
