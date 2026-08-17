@@ -3,16 +3,39 @@
   "team": {
     "name": "历史文化学院足球队",
     "sub": "信阳师范大学 · 历史文化学院",
-    "slogan": "以史明志 · 绿茵争锋",
-    "founded": "2005",
+    "slogan": "",
+    "founded": "2019",
     "college": "信阳师范大学历史文化学院",
-    "description": "信阳师范大学历史文化学院足球队成立于 2005 年，是学院历史最悠久的学生体育团队之一。球队秉承\"团结、拼搏、传承\"的队训，将史学人的严谨与坚韧带上绿茵场。建队以来，球队多次参加校\"园丁杯\"足球联赛并屡获佳绩，培养了一代又一代热爱足球的学子。无论寒冬酷暑，南湖球场总有他们的身影——这就是历史文化学院足球队。"
+    "description": ""
   },
-  "players": [],
-  "hall": [],
+  "players": [
+    {
+      "id": "id_mswhunfo8w6rf1",
+      "name": "宋咨举",
+      "number": "6",
+      "position": "前锋",
+      "grade": "2024",
+      "height": "",
+      "weight": "",
+      "specialty": "",
+      "bio": "",
+      "photo": null
+    }
+  ],
+  "hall": [
+    {
+      "id": "id_mswhv0wdo8zl5m",
+      "name": "蒋楠",
+      "position": "中场",
+      "years": "2022-2026",
+      "honors": "",
+      "bio": "",
+      "photo": null
+    }
+  ],
   "background": {
     "type": "color",
-    "color": "#e8f0e9",
+    "color": "#1d4e89",
     "image": null,
     "veil": 0
   }
